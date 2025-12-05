@@ -568,29 +568,77 @@ Documentation: Security runbooks, compliance procedures
 ### 🛡️ Security & Penetration Testing
 
 <img src="https://skillicons.dev/icons?i=kali,linux&theme=dark" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Magnet_Axiom-E74C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SIEM-2ECC71?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IDS/IPS-F39C12?style=for-the-badge"/>
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Magnet Axiom](https://img.shields.io/badge/Magnet_Axiom-E74C3C?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge)
+![SIEM](https://img.shields.io/badge/SIEM-2ECC71?style=for-the-badge)
+![IDS/IPS](https://img.shields.io/badge/IDS/IPS-F39C12?style=for-the-badge)
 
 ### 💻 Programming & Scripting
 
 <img src="https://skillicons.dev/icons?i=python,javascript,bash&theme=dark" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🌐 Networking & Infrastructure
 
-<img src="https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firewalls-E74C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VPN-2ECC71?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DHCP-F39C12?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OSI_Model-9B59B6?style=for-the-badge"/>
+![TCP/IP](https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls-E74C3C?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-2ECC71?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-F39C12?style=for-the-badge)
+![OSI Model](https://img.shields.io/badge/OSI_Model-9B59B6?style=for-the-badge)
 
 ### 🔧 DevOps & Virtualization
 
-<img src="https://skillicons.dev/
+<img src="https://skillicons.dev/icons?i=docker,mysql,aws&theme=dark" />
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### 📊 Analytics & Collaboration
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+
+</div>
+
+---
+
+<br>
+
+## 📈 GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fayaz-jani-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fayaz-jani-git&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=ffffff" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz-jani-git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" alt="Top Languages" />
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🤝 LET'S CONNECT
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
+
+**Open to opportunities in Security Operations, Incident Response, and Threat Intelligence**
+
+[![Email](https://img.shields.io/badge/Email-fayazjani.sheik@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fayazjani.sheik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayazjanisheik)
+
+</div>
